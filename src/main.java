@@ -5,5 +5,8 @@ public class main {
         //one change
         /* what a pain in the ass
         */
+
+        // sharing agai wha to do when I make changes
+        // just commit and push
     }
 }
